@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "experimentalDecorators": true,
+    "lib": ["dom", "es2015"],
+    "moduleResolution": "node",
+    "target": "es2015",
+    "skipLibCheck": true,
+    "noImplicitAny": false
+  }
+}

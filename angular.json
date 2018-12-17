@@ -1,0 +1,19 @@
+{
+  "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "version": 1,
+  "newProjectRoot": "packages",
+  "projects": {
+    "meteor-ngx-base": {
+      "root": "",
+      "sourceRoot": "client/imports",
+      "projectType": "application",
+      "prefix": "app",
+      "schematics": {
+        "@schematics/angular:component": {
+          "styleext": "scss"
+        }
+      }
+    }
+  },
+  "defaultProject": "meteor-ngx-base"
+}
