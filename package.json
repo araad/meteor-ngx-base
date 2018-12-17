@@ -39,7 +39,7 @@
     "@types/mocha": "5.2.5",
     "@types/sinon": "5.0.7",
     "chai": "4.2.0",
-    "meteor-ngx-schematics": "file:../meteor-ngx-schematics",
+    "meteor-ngx-schematics": "0.0.2",
     "mocha": "5.2.0",
     "ng-packagr": "^4.2.0",
     "puppeteer": "1.10.0",
